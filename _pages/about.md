@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Wildlife Biologist. Conservationist 
+subtitle: Wildlife Biologist. Conservationist. 
 
 profile:
   align: right
