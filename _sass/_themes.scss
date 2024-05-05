@@ -1,7 +1,7 @@
 :root {
-  --global-bg-color: #fff6e1;                // Correctly using hex codes
+  --global-bg-color: #fff6e1; // Correctly using hex codes
   --global-code-bg-color: $code-bg-color-light; // Assuming $code-bg-color-light is defined elsewhere
-  --global-text-color: $black-color;         // Direct use of SCSS variables
+  --global-text-color: $black-color; // Direct use of SCSS variables
   --global-text-color-light: $grey-color;
   --global-theme-color: #d6ae69;
   --global-hover-color: #e1c391;
