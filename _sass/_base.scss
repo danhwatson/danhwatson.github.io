@@ -372,10 +372,10 @@ ul.task-list input[type="checkbox"] {
   position: absolute;
   bottom: 0;
   width: 100%; // to ensure it spans the full width of the parent
-  text-align: center;
+  text-align: end;
 
   .contact-icons {
-    font-size: 1rem;
+    font-size: 0.5rem;
 
     a {
       i::before {
