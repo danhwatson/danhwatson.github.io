@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Wildlife Biologist. Conservationist.
-social: true
 profile:
   align: right
   image: prof_pic.jpg

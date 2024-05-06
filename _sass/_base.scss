@@ -368,14 +368,12 @@ ul.task-list input[type="checkbox"] {
 
 // Social (bottom)
 
+
 .social {
-  position: absolute;
-  bottom: 0;
-  width: 100%; // to ensure it spans the full width of the parent
   text-align: center;
 
   .contact-icons {
-    font-size: 0.8rem;
+    font-size: 1rem;
 
     a {
       i::before {
