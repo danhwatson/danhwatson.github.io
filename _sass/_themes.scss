@@ -10,7 +10,7 @@
   --global-theme-color: #4e574f;
   --global-hover-color: #4e574f;
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$grey-color-dark};
+  --global-footer-bg-color: #e3d5c4;
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
@@ -61,7 +61,7 @@ html[data-theme="dark"] {
   --global-theme-color: #b2c5b4;
   --global-hover-color: #b2c5b4;
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$grey-color-light};
+  --global-footer-bg-color: #4a453e;
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
