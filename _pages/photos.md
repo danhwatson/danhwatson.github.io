@@ -7,4 +7,5 @@ nav_order: 2
 ---
 
 # photos
+
 Welcome to my photo gallery!
