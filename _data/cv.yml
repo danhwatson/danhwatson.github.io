@@ -1,97 +1,109 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+cv:
+  - title: "Education"
+    entries:
+      - degree: "M.S. Fisheries and Wildlife Sciences"
+        institution: "Virginia Tech, Blacksburg, VA"
+        date: "Anticipated Graduation: December 2024"
+        gpa: "4.0"
+      - degree: "B.S. Environmental and Natural Resources"
+        institution: "Clemson University, Clemson, SC"
+        concentration: "Conservation Biology"
+        date: "August 2020"
+        gpa: "3.3" 
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+  - title: "Experience"
+    entries:
+      - role: "M.S. Research Assistant"
+        institution: "Virginia Tech, Blacksburg, VA"
+        date: "August 2022 – Present"
+        description: |
+          ● Led research in avian response to heavy mineral surface mine reclamation in southeastern Georgia
+          ● Designed and implemented intensive avian monitoring surveys, using bioacoustic monitoring with autonomous recording units (ARUs)
+          ● Automatically annotated acoustic data using BirdNET, integrated within high performance computing
+          ● Evaluated BirdNET performance and validated BirdNET predictions to determine thresholds for filtering
+          ● Assessed potentially significant habitat variables with line-intercept vegetation sampling data
+          ● Conducted statistical analyses to estimate species occupancy or abundance with validated BirdNET output and determine significant environmental parameters influencing occupancy and abundance in R
+          ● Analyzed the efficacy of passive acoustic monitoring to detect focal species– informing future monitoring protocols
+          ● Mist netting, banding, and recapture of 30+ passerines to understand site use and body condition
+          ● Utilized systematic pipeline for large volume data storage and management– involving network-attached storage systems and high performance computing
+          ● Supervised and trained research technician tasked with collecting data to meet project goals
+          ● Collaborated with the USGS Virginia Cooperative Fish and Wildlife Research Unit team as a peer mentor to other graduate students
+          ● Presented regular updates on project data, analysis, and results to funders and collaborators, including private, state and federal institutions
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+      - role: "Volunteer Banding Assistant"
+        institution: "Glenn Alton Banding Station, Blacksburg, VA"
+        date: "August 2022 – November 2023"
+        description: |
+          ● Mentored Virginia Tech students in passerine banding, mist net operation, extraction, and data collection
+          ● Banded 30+ passerine and near-passerine species
+          ● Completed 20+ mist net extractions of passerines and near-passerines
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+      - role: "Wildlife Conservation Technician"
+        institution: "North Carolina Wildlife Resources Commission, Raleigh, NC"
+        date: "December 2021 – July 2022"
+        description: |
+          ● Independently led data collection and outreach efforts across the Piedmont region for the North Carolina Bird Atlas (NCBA), a longitudinal project gaining insights in distribution, breeding status, and conservation needs for all avian species in North Carolina
+          ● Granted access to survey private and commercial properties through various outreach methods, including cold calls and direct mailings– fostered continued working relationships with property owners with engaging communication
+          ● Surveyed land parcels via Esri ArcGIS to determine property ownership and habitat characteristics
+          ● Steered survey effort by monitoring the NCBA eBird database
+          ● Frequently scheduled and traveled on multi-day trips across the region– gave weekly reports on travel to supervisors
+          ● Designed survey routes in areas with remote access and adverse field conditions with Esri ArcMap, Field Maps, and Guru Maps
+          ● Performed eBird checklist surveys (600+) including observational behavioral data in a variety of habitats
+          ● Conducted point count surveys (200+) using Esri Survey123 incorporating distance-sampling methodologies
+          ● Collaborated with supervisors, colleagues, and committee members in regards to achieving NCBA objectives
+          ● Published website blogs and social media posts pertinent to the NCBA’s outreach goals
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+      # Continue adding more experience entries here as needed
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+  - title: "Teaching"
+    entries:
+      - role: "Instructor"
+        course: "Wildlife Field Techniques (FIW 4214)"
+        institution: "Virginia Tech"
+        date: "2024"
+        description: "3 credits, ~50 undergraduates. Lead 3-day field intensive course demonstrating and instructing techniques used in avian ecology, including songbird banding, point count surveys, distance sampling, and habitat surveys."
+      - role: "Guest Lecturer"
+        course: "Ecological Restoration (ENSC 4244)"
+        institution: "Virginia Tech"
+        date: "2023"
+        description: "Lecture Topic: Bioacoustic Monitoring for Ecological Restoration Projects"
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+  - title: "Presentations"
+    entries:
+      - presentation: "Avian Response to Heavy Mineral Surface Mine Reclamation in Southeastern Georgia"
+        event: "Annual Conference of the Southeastern Association of Fish and Wildlife Agencies"
+        location: "Augusta, Georgia"
+        date: "October 2024"
+        type: "Oral presentation (scheduled)"
+      - presentation: "Avian Response to Heavy Mineral Surface Mine Reclamation in Southeastern Georgia"
+        event: "American Ornithological Society Annual Meeting"
+        location: "Estes Park, Colorado"
+        date: "October 2024"
+        type: "Oral presentation (scheduled)"
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+      # Add more presentations as needed
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+  - title: "Grants"
+    entries:
+      - grant: "Virginia Tech College of Natural Resources and Environment Graduate Student Travel Grant"
+        amount: "$600"
+        date: "2023"
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+  - title: "Certifications"
+    entries:
+      - certification: "Subpermittee Bird Bander, All Passerines and Near-passerines"
+        authority: "Approved by USGS Bird Banding Lab"
+        date: "2022"
+      - certification: "Red Cross First Aid, CPR, and AED"
+        date: "2023"
+      - certification: "American Red Cross Wilderness/Remote Location First Aid"
+        date: "2020"
+      - certification: "AAA Defensive Driving Training"
+        date: "2023"
+
+  - title: "Professional Organizations"
+    entries:
+      - organization: "The Wildlife Society"
+        date: "2023–Present"
+      - organization: "American Ornithological Society"
+        date: "2023–Present" 
