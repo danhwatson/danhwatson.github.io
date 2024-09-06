@@ -1,12 +1,12 @@
 {
-  "About": {
+  "basics": {
     "name": "Dan H. Watson",
     "label": "M.S. Research Assistant",
     "email": "danwatson@vt.edu",
     "phone": "(803) 810-5728",
     "location": {
       "city": "Blacksburg",
-      "state": "VA",
+      "region": "VA",
       "countryCode": "US"
     }
   },
