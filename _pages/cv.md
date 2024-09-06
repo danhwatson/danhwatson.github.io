@@ -10,8 +10,8 @@ toc:
   sidebar: left
 <<<<<<< HEAD
 ---
-=======
----
+
+## =======
 
 <<<<<<< HEAD
 
@@ -86,5 +86,5 @@ toc:
 - **Grant**: Virginia Tech College of Natural Resources and Environment Graduate Student Travel Grant
   - **Amount**: $600
   - # **Year**: 2023
-    > > > > > > > 00eaa2b (r)
->>>>>>> 84d4472c0ad2f271667ad3da5d2223db1e0de1ca
+        > > > > > > > 00eaa2b (r)
+    > > > > > > > 84d4472c0ad2f271667ad3da5d2223db1e0de1ca
