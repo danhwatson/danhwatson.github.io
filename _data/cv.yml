@@ -9,7 +9,7 @@ cv:
         institution: "Clemson University, Clemson, SC"
         concentration: "Conservation Biology"
         date: "August 2020"
-        gpa: "3.3" 
+        gpa: "3.3"
 
   - title: "Experience"
     entries:
@@ -53,7 +53,17 @@ cv:
           ● Collaborated with supervisors, colleagues, and committee members in regards to achieving NCBA objectives
           ● Published website blogs and social media posts pertinent to the NCBA’s outreach goals
 
-      # Continue adding more experience entries here as needed
+      - role: "Volunteer Banding Assistant"
+        institution: "Jekyll Island Banding Station, Jekyll Island, GA"
+        date: "October 2021"
+        description: |
+          ● Banded (60+) passerine and near-passerine species, consisting of 20+ variety of species
+          ● Completed (70+) mist net extractions of passerines and near-passerines
+          ● Routinely operated mist nests and performed data collection
+          ● Collaborated with long-term fall migration bird banding station located on a barrier island in southeastern Georgia
+          ● Trained volunteers on safety, mist net operation, and basic bird extraction skills
+
+      # Continue adding more experience entries as needed
 
   - title: "Teaching"
     entries:
@@ -80,6 +90,11 @@ cv:
         location: "Estes Park, Colorado"
         date: "October 2024"
         type: "Oral presentation (scheduled)"
+      - presentation: "Avian Response to Heavy Mineral Surface Mine Reclamation in Southeastern Georgia"
+        event: "The Wildlife Society Annual Conference"
+        location: "Louisville, Kentucky"
+        date: "November 2023"
+        type: "Poster presentation"
 
       # Add more presentations as needed
 
@@ -106,4 +121,4 @@ cv:
       - organization: "The Wildlife Society"
         date: "2023–Present"
       - organization: "American Ornithological Society"
-        date: "2023–Present" 
+        date: "2023–Present"
