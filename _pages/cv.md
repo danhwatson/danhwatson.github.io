@@ -9,6 +9,7 @@ description: "This is Dan Watson's CV. Below you can download the full PDF or sc
 toc:
   sidebar: left
 ---
+
 <<<<<<< HEAD
 
 # Education
@@ -81,6 +82,5 @@ toc:
 
 - **Grant**: Virginia Tech College of Natural Resources and Environment Graduate Student Travel Grant
   - **Amount**: $600
-  - **Year**: 2023
-=======
->>>>>>> 00eaa2b (r)
+  - # **Year**: 2023
+    > > > > > > > 00eaa2b (r)
