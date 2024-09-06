@@ -9,7 +9,7 @@ cv:
         institution: "Clemson University, Clemson, SC"
         concentration: "Conservation Biology"
         date: "August 2020"
-        gpa: "3.3" 
+        gpa: "3.3"
 
   - title: "Experience"
     entries:
@@ -106,4 +106,4 @@ cv:
       - organization: "The Wildlife Society"
         date: "2023–Present"
       - organization: "American Ornithological Society"
-        date: "2023–Present" 
+        date: "2023–Present"
