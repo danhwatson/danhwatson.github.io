@@ -12,9 +12,11 @@ toc:
 <<<<<<< HEAD
   sidebar: left
 ---
+
 =======
 sidebar: left
->>>>>>> f4d82b133d37af96f65c21f65a17401fe12840fe
-=======
-sidebar: left
->>>>>>> f4d82b133d37af96f65c21f65a17401fe12840fe
+
+> > > > > > > # f4d82b133d37af96f65c21f65a17401fe12840fe
+> > > > > > >
+> > > > > > > sidebar: left
+> > > > > > > f4d82b133d37af96f65c21f65a17401fe12840fe
