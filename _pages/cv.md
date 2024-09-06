@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: "CV - Dan Watson"
+title: CV - Dan Watson
 nav: true
 nav_order: 1
 cv_pdf: Watson_CV_Sep_24.pdf
@@ -9,6 +9,7 @@ description: "This is Dan Watson's CV. Below you can download the full PDF or sc
 toc:
   sidebar: left
 ---
+<<<<<<< HEAD
 
 # Education
 
@@ -81,3 +82,5 @@ toc:
 - **Grant**: Virginia Tech College of Natural Resources and Environment Graduate Student Travel Grant
   - **Amount**: $600
   - **Year**: 2023
+=======
+>>>>>>> 00eaa2b (r)
