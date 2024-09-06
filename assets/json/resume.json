@@ -1,12 +1,12 @@
 {
-  "basics": {
+  "About": {
     "name": "Dan H. Watson",
     "label": "M.S. Research Assistant",
     "email": "danwatson@vt.edu",
     "phone": "(803) 810-5728",
     "location": {
       "city": "Blacksburg",
-      "region": "VA",
+      "state": "VA",
       "countryCode": "US"
     }
   },
@@ -14,7 +14,7 @@
     {
       "institution": "Virginia Tech",
       "location": "Blacksburg, VA",
-      "studyType": "M.S.",
+      "studyType": "Masters of Science",
       "area": "Fisheries and Wildlife Sciences",
       "startDate": "2022-08-01",
       "endDate": "2024-12-01",
@@ -23,7 +23,7 @@
     {
       "institution": "Clemson University",
       "location": "Clemson, SC",
-      "studyType": "B.S.",
+      "studyType": "Bachelor of Science",
       "area": "Environmental and Natural Resources",
       "concentration": "Conservation Biology",
       "startDate": "2016-08-01",
