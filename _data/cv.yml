@@ -63,7 +63,62 @@ cv:
           ● Collaborated with long-term fall migration bird banding station located on a barrier island in southeastern Georgia
           ● Trained volunteers on safety, mist net operation, and basic bird extraction skills
 
-      # Continue adding more experience entries as needed
+      - role: "Bird Banding Course Participant"
+        institution: "Wehle Land Conservation Center, Alabama Audubon, Midway, AL"
+        date: "September 2021"
+        description: |
+          ● Trained in all aspects of mist net operation, banding safety, and ethics under multiple master banders
+          ● Honed bird extraction and handling skills
+          ● Developed ability to age and sex passerines and near-passerines in-hand
+          ● Studied context, development, and legality of successfully operating a bird banding station
+          ● Scribed using MAPS protocol and forms
+          ● Extracted, banded, aged/sexed (10+) songbird species, consisting of 7 varieties of species
+
+      - role: "Volunteer Banding Assistant"
+        institution: "Whigg Meadow Banding Station, Cherokee National Forest"
+        date: "September 2021"
+        description: |
+          ● Assisted in the daily operations of a high-elevation fall migration bird banding station
+          ● Routinely conducted mist net operation, data collection, and efficiently scribed for bird bander(s)
+          ● Trained in mist net extraction and successfully extracted 30+ individual passerines, consisting of 10+ variety of species
+
+      - role: "Avian Research Technician"
+        institution: "Clemson University, Clemson, SC"
+        date: "March 2021 – July 2021"
+        description: |
+          ● Contributed to study monitoring effects of forest management on the distribution of ruffed grouse, golden-winged warbler, and four habitat indicator species in the Southern Blue Ridge Ecoregion
+          ● Conducted point count surveys (200+) under a conditional occupancy model design across the Blue Ridge Mountain region of North Carolina, South Carolina, and Georgia
+          ● Deployed autonomous recording units for remote surveys in an integrated joint occupancy modeling framework
+          ● Collected detailed observations of significant habitat variables in micro-habitat and patch scales with Wildnote App
+          ● Conducted vegetation surveys (30+) using Carolina Vegetation Survey protocol and Robel pole measurements
+          ● Planned survey routes with Esri ArcMap, Field Maps, and Avenza Maps
+          ● Routinely sent reports and communications to project lead and peers in regards to progress of study
+          ● Off-road navigation into remote areas and hiked long-distances in hot, humid, and rugged terrain
+          ● Contributed bird and habitat photography for project presentations
+
+      - role: "Hawkwatch Counter / Volunteer Banding Assistant"
+        institution: "Big Bald Banding Station, Wolf Laurel, NC"
+        date: "September 2020 – November 2020"
+        description: |
+          ● Independently led daily Hawkwatch count of migratory raptors (130+ hours)
+          ● Conducted in-flight raptor identification, often from far distances or in poor lighting condition– relying on advanced field-marks, such as flight style, silhouette, or other behavioral characteristics
+          ● Processed daily data entry into Hawk Migration Association of North America (HMANA)'s HawkCount database
+          ● Educated visitors on raptor migration, bird conservation, and operations of Big Bald Banding Station
+          ● Developed passerine and raptor handling skills
+          ● Operated mist nets daily
+          ● Provided efficient scribing and data collection during northern saw-whet owl and passerine banding operations
+          ● Provided quality photography for education and outreach efforts
+
+      - role: "Avian Research Technician / Undergraduate Research Assistant"
+        institution: "Clemson University, Clemson, SC"
+        date: "January 2019 – August 2019"
+        description: |
+          ● Attained experience using audio lures, mist nets, radio telemetry, and Bal-chatri (BC) traps
+          ● Conducted outreach and coordination with property owners and volunteers
+          ● Tracked 20 Barred Owls using VHF radio telemetry and collected and compiled data with Epicollect5
+          ● Identified barred owl habitats across a gradient of rural and urban areas
+          ● Delineated territories of individual Barred Owls across study sites
+          ● Systematically uploaded and processed telemetry data
 
   - title: "Teaching"
     entries:
@@ -95,8 +150,6 @@ cv:
         location: "Louisville, Kentucky"
         date: "November 2023"
         type: "Poster presentation"
-
-      # Add more presentations as needed
 
   - title: "Grants"
     entries:
