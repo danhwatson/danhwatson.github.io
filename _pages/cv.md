@@ -6,18 +6,20 @@ nav: true
 nav_order: 1
 cv_pdf: Watson_CV_Sep_24.pdf
 description: "This is Dan Watson's CV. Below you can download the full PDF or scroll to view sections."
-toc: 
+toc:
   sidebar: left
 ---
 
 # Education
 
 ## M.S. Fisheries and Wildlife Sciences
+
 - **Institution**: Virginia Tech, Blacksburg, VA
 - **Anticipated Graduation**: December 2024
 - **GPA**: 4.0
 
 ## B.S. Environmental and Natural Resources
+
 - **Institution**: Clemson University, Clemson, SC
 - **Concentration**: Conservation Biology
 - **Graduation Date**: August 2020
@@ -26,9 +28,10 @@ toc:
 # Experience
 
 ## M.S. Research Assistant
+
 - **Institution**: Virginia Tech, Blacksburg, VA
 - **Dates**: August 2022 – Present
-- **Description**: 
+- **Description**:
   - Led research in avian response to heavy mineral surface mine reclamation in southeastern Georgia
   - Designed and implemented intensive avian monitoring surveys, using bioacoustic monitoring with autonomous recording units (ARUs)
   - Automatically annotated acoustic data using BirdNET, integrated within high performance computing
@@ -41,11 +44,13 @@ toc:
 # Teaching
 
 ## Instructor, Wildlife Field Techniques (FIW 4214)
+
 - **Institution**: Virginia Tech
 - **Dates**: 2024
 - **Description**: Lead 3-day field intensive course demonstrating and instructing techniques used in avian ecology, including songbird banding, point count surveys, distance sampling, and habitat surveys.
 
 ## Guest Lecturer, Ecological Restoration (ENSC 4244)
+
 - **Institution**: Virginia Tech
 - **Dates**: 2023
 - **Description**: Lecture Topic: Bioacoustic Monitoring for Ecological Restoration Projects.
@@ -53,6 +58,7 @@ toc:
 # Presentations
 
 - **Title**: Avian Response to Heavy Mineral Surface Mine Reclamation in Southeastern Georgia
+
   - **Event**: Annual Conference of the Southeastern Association of Fish and Wildlife Agencies
   - **Location**: Augusta, Georgia
   - **Date**: October 2024 (Scheduled)
@@ -75,4 +81,3 @@ toc:
 - **Grant**: Virginia Tech College of Natural Resources and Environment Graduate Student Travel Grant
   - **Amount**: $600
   - **Year**: 2023
-
