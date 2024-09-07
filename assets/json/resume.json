@@ -1,5 +1,5 @@
 {
-  "basics": {
+  "": {
     "name": "Dan H. Watson",
     "label": "M.S. Research Assistant",
     "email": "danwatson@vt.edu",
@@ -38,8 +38,8 @@
       "location": "Blacksburg, VA",
       "startDate": "2022-08-01",
       "endDate": "Present",
-      "summary": "Led research in avian response to heavy mineral surface mine reclamation in southeastern Georgia.",
       "highlights": [
+        "Led research in avian response to heavy mineral surface mine reclamation in southeastern Georgia.",
         "Designed and implemented intensive avian monitoring surveys, using bioacoustic monitoring with autonomous recording units (ARUs)",
         "Automatically annotated acoustic data using BirdNET, integrated within high performance computing",
         "Evaluated BirdNET performance and validated BirdNET predictions to determine thresholds for filtering",
@@ -59,8 +59,8 @@
       "location": "Blacksburg, VA",
       "startDate": "2022-08-01",
       "endDate": "2023-11-01",
-      "summary": "Mentored Virginia Tech students in passerine banding, mist net operation, extraction, and data collection.",
-      "highlights": ["Banded 30+ passerine and near-passerine species", "Completed 20+ mist net extractions of passerines and near-passerines"]
+      "highlights": [ "Mentored Virginia Tech students in passerine banding, mist net operation, extraction, and data collection.", 
+          "Banded 30+ passerine and near-passerine species", "Completed 20+ mist net extractions of passerines and near-passerines"]
     },
     {
       "name": "North Carolina Wildlife Resources Commission",
@@ -68,8 +68,8 @@
       "location": "Raleigh, NC",
       "startDate": "2021-12-01",
       "endDate": "2022-07-01",
-      "summary": "Independently led data collection and outreach efforts across the Piedmont region for the North Carolina Bird Atlas (NCBA), a longitudinal project gaining insights in distribution, breeding status, and conservation needs for all avian species in North Carolina.",
       "highlights": [
+        "Independently led data collection and outreach efforts across the Piedmont region for the North Carolina Bird Atlas (NCBA), a longitudinal project gaining insights in distribution, breeding status, and conservation needs for all avian species in North Carolina.",
         "Granted access to survey private and commercial properties through various outreach methods, including cold calls and direct mailings– fostered continued working relationships with property owners with engaging communication",
         "Surveyed land parcels via Esri ArcGIS to determine property ownership and habitat characteristics",
         "Steered survey effort by monitoring the NCBA eBird database",
@@ -86,8 +86,8 @@
       "position": "Volunteer Banding Assistant",
       "location": "Jekyll Island, GA",
       "startDate": "2021-10-01",
-      "summary": "Banded (60+) passerine and near-passerine species, consisting of 20+ variety of species.",
       "highlights": [
+        "Banded (60+) passerine and near-passerine species, consisting of 20+ variety of species.",
         "Completed (70+) mist net extractions of passerines and near-passerines",
         "Routinely operated mist nests and performed data collection",
         "Collaborated with long-term fall migration bird banding station located on a barrier island in southeastern Georgia",
@@ -99,8 +99,8 @@
       "position": "Bird Banding Course Participant",
       "location": "Midway, AL",
       "startDate": "2021-09-01",
-      "summary": "Trained in all aspects of mist net operation, banding safety, and ethics under multiple master banders.",
       "highlights": [
+        "Trained in all aspects of mist net operation, banding safety, and ethics under multiple master banders.",
         "Honed bird extraction and handling skills",
         "Developed ability to age and sex passerines and near-passerines in-hand",
         "Studied context, development, and legality of successfully operating a bird banding station",
@@ -113,8 +113,8 @@
       "position": "Volunteer Banding Assistant",
       "location": "Cherokee National Forest",
       "startDate": "2021-09-01",
-      "summary": "Assisted in the daily operations of a high-elevation fall migration bird banding station.",
       "highlights": [
+        "Assisted in the daily operations of a high-elevation fall migration bird banding station.",
         "Routinely conducted mist net operation, data collection, and efficiently scribed for bird bander(s)",
         "Trained in mist net extraction and successfully extracted 30+ individual passerines, consisting of 10+ variety of species"
       ]
@@ -125,8 +125,8 @@
       "location": "Clemson, SC",
       "startDate": "2021-03-01",
       "endDate": "2021-07-01",
-      "summary": "Contributed to study monitoring effects of forest management on the distribution of ruffed grouse, golden-winged warbler, and four habitat indicator species in the Southern Blue Ridge Ecoregion.",
       "highlights": [
+        "Contributed to study monitoring effects of forest management on the distribution of ruffed grouse, golden-winged warbler, and four habitat indicator species in the Southern Blue Ridge Ecoregion.",
         "Conducted point count surveys (200+) under a conditional occupancy model design across the Blue Ridge Mountain region of North Carolina, South Carolina, and Georgia",
         "Deployed autonomous recording units for remote surveys in an integrated joint occupancy modeling framework",
         "Collected detailed observations of significant habitat variables in micro-habitat and patch scales with Wildnote App",
@@ -143,8 +143,8 @@
       "location": "Wolf Laurel, NC",
       "startDate": "2020-09-01",
       "endDate": "2020-11-01",
-      "summary": "Independently led daily Hawkwatch count of migratory raptors (130+ hours).",
       "highlights": [
+        "Independently led daily Hawkwatch count of migratory raptors (130+ hours).",
         "Conducted in-flight raptor identification, often from far distances or in poor lighting condition– relying on advanced field-marks, such as flight style, silhouette, or other behavioral characteristics",
         "Processed daily data entry into Hawk Migration Association of North America (HMANA)'s HawkCount database",
         "Educated visitors on raptor migration, bird conservation, and operations of Big Bald Banding Station",
@@ -160,8 +160,8 @@
       "location": "Clemson, SC",
       "startDate": "2019-01-01",
       "endDate": "2019-08-01",
-      "summary": "Attained experience using audio lures, mist nets, radio telemetry, and Bal-chatri (BC) traps.",
       "highlights": [
+        "Attained experience using audio lures, mist nets, radio telemetry, and Bal-chatri (BC) traps.",
         "Tracked 20 Barred Owls using VHF radio telemetry and collected and compiled data with Epicollect5",
         "Identified barred owl habitats across a gradient of rural and urban areas",
         "Delineated territories of individual Barred Owls across study sites",
