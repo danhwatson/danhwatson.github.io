@@ -7,7 +7,7 @@
         <div class="col-md-2 text-center" style="width: 75px">
           {% if content.startDate and content.startDate != '' %}
             {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
-            {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
+            {% assign endDate = content.endDate | split: '-' | 2 | join: '.' | default: 'Present' %}
             {% assign date = startDate | append: ' - ' | append: endDate %}
           {% else %}
             {% assign date = null %}
@@ -37,7 +37,7 @@
         </div>
 
         <!-- Study Type, Institution, and Details -->
-        <div class="col-md-10 mt-2 mt-md-0">
+        <div class="col-md-10 dark-box mt-2 mt-md-0" style="margin: 0 auto; padding: 20px; background-color: #333; color: white; border-radius: 10px;">
           <h6 class="title font-weight-bold ml-1 ml-md-4">
             {% if content.url %}
               <a href="{{ content.url }}" target="_blank">{{ content.studyType }}</a>
@@ -60,6 +60,8 @@
           {% endif %}
         </div>
       </div>
+      <div class="clearfix"></div> <!-- This will clear any potential float issues -->
     </li>
   {% endfor %}
 </ul>
+
